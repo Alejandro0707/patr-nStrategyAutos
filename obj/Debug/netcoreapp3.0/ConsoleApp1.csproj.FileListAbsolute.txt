@@ -1,0 +1,10 @@
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\AppAutos\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\AppAutos\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\AppAutos\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\AppAutos\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\AppAutos\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
